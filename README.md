@@ -522,25 +522,22 @@ Store generated plots inside the `images/` folder and reference them here:
 ## 📁 Project Structure
 
 ```text
-House-Price-Regression/
+Supervised-Learning-PR-1/
+│
+├── 📁 PDF/
+│   └── 📄 Theory and Concepts Documentation
+│
+├── 📁 Video/
+│   └── 🎥 Project Explanation / Demonstration Video
 │
 ├── 📄 README.md
-│   └── Project documentation, methodology, results, and conclusions
+│   └── Project overview, methodology, results, and conclusion
 │
 ├── 📊 house_price.csv.csv
-│   └── Dataset containing house features and house prices
+│   └── House price dataset used for model training and evaluation
 │
 └── 📓 pr1.ipynb
-    └── Complete Jupyter Notebook containing:
-        ├── Dataset Understanding & Preparation
-        ├── Simple Linear Regression
-        ├── Model Evaluation
-        ├── Multiple Linear Regression
-        ├── Polynomial Regression
-        ├── Gradient Descent Optimization
-        ├── Bias–Variance Analysis
-        ├── Model Diagnostics
-        └── Final Findings & Conclusion
+    └── Complete Jupyter Notebook containing all 30 tasks
 
 # 🛠️ Tech Stack
 
