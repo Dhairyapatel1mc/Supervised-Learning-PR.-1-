@@ -519,39 +519,28 @@ Store generated plots inside the `images/` folder and reference them here:
 
 ---
 
-# 🗂️ Recommended Project Structure
+## 📁 Project Structure
 
 ```text
-House-Price-Prediction/
+House-Price-Regression/
 │
-├── data/
-│   └── house_price_dataset.csv
+├── 📄 README.md
+│   └── Project documentation, methodology, results, and conclusions
 │
-├── notebooks/
-│   └── house_price_regression.ipynb
+├── 📊 house_price.csv.csv
+│   └── Dataset containing house features and house prices
 │
-├── src/
-│   ├── data_preprocessing.py
-│   ├── regression_models.py
-│   ├── gradient_descent.py
-│   └── evaluation.py
-│
-├── images/
-│   ├── feature_relationships.png
-│   ├── regression_comparison.png
-│   ├── gradient_descent_convergence.png
-│   ├── residual_plot.png
-│   └── actual_vs_predicted.png
-│
-├── results/
-│   └── model_results.csv
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
-
----
+└── 📓 pr1.ipynb
+    └── Complete Jupyter Notebook containing:
+        ├── Dataset Understanding & Preparation
+        ├── Simple Linear Regression
+        ├── Model Evaluation
+        ├── Multiple Linear Regression
+        ├── Polynomial Regression
+        ├── Gradient Descent Optimization
+        ├── Bias–Variance Analysis
+        ├── Model Diagnostics
+        └── Final Findings & Conclusion
 
 # 🛠️ Tech Stack
 
