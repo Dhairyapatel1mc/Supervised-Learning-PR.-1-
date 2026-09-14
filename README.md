@@ -683,12 +683,9 @@ This project demonstrates practical understanding of:
 
 # 👨‍💻 Author
 
-**Your Name**
+**Dhairya Patel**
 
 AI/ML Learner • Python • Machine Learning • Data Science
-
-- GitHub: `https://github.com/your-username`
-- LinkedIn: `https://linkedin.com/in/your-profile`
 
 ---
 
