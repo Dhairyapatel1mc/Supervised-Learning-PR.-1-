@@ -519,16 +519,18 @@ Store generated plots inside the `images/` folder and reference them here:
 
 ---
 
+## 📂 Project Structure
+
+```text
 Supervised-Learning-PR.-1/
 │
 ├── 📓 pr1.ipynb
-│   └── Main Jupyter Notebook
-│       ├── Data Loading
-│       ├── Data Preprocessing
-│       ├── Exploratory Data Analysis
-│       ├── Feature Engineering
-│       ├── Model Building
-│       └── Model Evaluation
+│   ├── Data Loading
+│   ├── Data Preprocessing
+│   ├── Exploratory Data Analysis
+│   ├── Feature Engineering
+│   ├── Model Building
+│   └── Model Evaluation
 │
 ├── 📊 house_price.csv.csv
 │   └── House Price Dataset
@@ -544,6 +546,7 @@ Supervised-Learning-PR.-1/
 │
 └── 📖 README.md
     └── Project Documentation
+```
 
 # 🛠️ Tech Stack
 
